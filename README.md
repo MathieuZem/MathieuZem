@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Currently in my first year of master’s degree in computer science pursued at CPE Lyon (French engineering school of digital science) // specialization IMI (FR : Image Modélisation et Informatique - EN : Image, modélisation and computer science) 😁😁
+
 <!--
 **MathieuZem/MathieuZem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
